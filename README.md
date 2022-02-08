@@ -1,6 +1,6 @@
 This repository contains the certificates and badges I have earned so far and the details are given below.
 
-**CERTIFICATES (57 certificates in total):**
+**CERTIFICATES (57 in total):**
 ```
    Coursera - 7
    Project Management Institute (PMI) - 1
@@ -9,7 +9,7 @@ This repository contains the certificates and badges I have earned so far and th
    Cloud University (sponsored by Rackspace) - 3
 ```
 
-**BADGES (37 badges in total):**
+**BADGES (37 in total):**
 ```
    Project Management Institute (PMI) - 1
    DataCamp - 12
